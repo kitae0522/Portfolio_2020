@@ -1,0 +1,66 @@
+@media only screen and (max-width: 767px) {
+    .main-font {
+        position: absolute;
+        top: 43%;
+        left: 2%;
+        font-size: 6vh;
+    }
+
+    .sub-font {
+        position: absolute;
+        top: 63%;
+        left: 2%;
+        font-size: 4vh;
+    }
+
+    .about-main-font {
+        font-size: 80px;
+        text-align: center;
+        margin-top: 150px;
+        margin-bottom: 150px;
+    }
+
+    #about {
+        width:100%;
+        height:auto;
+    }
+
+    #about .box {
+        width:350px;
+        height:350px;
+        margin:0px auto;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+    .main-font {
+        position: absolute;
+        top: 43%;
+        left: 2%;
+        font-size: 8vh;
+    }
+
+    .sub-font {
+        position: absolute;
+        top: 63%;
+        left: 2%;
+        font-size: 7vh;
+    }
+
+    .about-main-font {
+        font-size: 100px;
+        text-align: center;
+        margin-top: 150px;
+        margin-bottom: 150px;
+    }
+
+    #about .box {
+        width:500px;
+        height:500px;
+        margin:0px auto;
+    }
+
+    .more-link, .more-link-text {
+        font-size: 18px;
+    }
+}

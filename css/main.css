@@ -1,0 +1,189 @@
+@charset "utf-8";
+@import url(//cdn.jsdelivr.net/nanumsquare/1.0/nanumsquare.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+body        { font: 24px/30px 'Noto Sans CJK KR', Noto Sans KR, sans-serif }
+.thin       { font-weight: 100 }
+.light      { font-weight: 300 }
+.regular    { font-weight: 400 }
+.medium     { font-weight: 500 }
+.bold       { font-weight: 700 }
+.bolder     { font-weight: 900 }
+
+::-webkit-scrollbar {
+	width:10px;
+}
+
+::-webkit-scrollbar-track {
+	background:#424242;
+}
+
+::-webkit-scrollbar-thumb {
+	background:#386eef;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background:#671ce9;
+}
+
+::-moz-selection {
+	background:#30c8ff;
+	color:#000;
+}
+
+::selection {
+	background:#30c8ff;
+	color: #000;
+}
+
+html, body {
+    min-width: 310px;
+    height: 100%;
+}
+
+body {
+    display: block;
+    margin: 0px;
+}
+
+body, p {
+    font-size: 20px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    line-height: 1.3;
+}
+
+p {
+    line-height: 1.5;
+    margin: 30px 0;
+    font-weight: lighter;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: #656565;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #386eef;
+}
+
+
+div {
+    display: block;
+}
+
+#about {
+    width:100%;
+    height:100%;
+}
+  
+#about .box{ 
+    width:750px;
+    height:750px;
+    margin:0px auto;
+}
+
+#portfolio {
+    width: 100%;
+    height: 100%;
+}
+
+.background {
+    background-position: center;
+    background-color: #ffffff;
+    background-size: cover;
+    min-height: 100%;
+}
+
+.main-font {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 10vh;
+    color: transparent;
+}
+
+.sub-font {
+    position: absolute;
+    top: 58%;
+    left: 10%;
+    font-size: 10vh;
+}
+
+.text-gradient {
+    transform: translate(0%, -50%);
+    background: #386eef;
+    background: -webkit-linear-gradient(left, #386eef, #671ce9);
+    background: -moz-linear-gradient(right, #386eef, #671ce9);
+    background: -o-linear-gradient(right, #386eef, #671ce9);
+    background: linear-gradient(to right, #386eef, #671ce9);
+    -webkit-background-clip: text;
+            background-clip: text;
+    color: transparent;
+}
+
+.about-main-font {
+    font-size: 120px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.about-sub-font {
+    font-family: 'NanumSquare';
+    color: #000000;
+    margin: 30px 0px;
+}
+
+.more-link {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    position: relative;
+    letter-spacing: 0.12rem;
+}
+
+.more-link-text {
+    position: relative;
+    padding: 0 4px;
+    margin: 0;
+    border: 0;
+    vertical-align: baseline;
+    -webkit-text-size-adjust: none;
+}
+
+mark {
+    color: #000000;
+    background: #ffed9c;
+}
+
+.portfolio-title-box {
+    transform: translate(0%, -50%);
+    background: #386eef;
+    background: -webkit-linear-gradient(left, #386eef, #671ce9);
+    background: -moz-linear-gradient(right, #386eef, #671ce9);
+    background: -o-linear-gradient(right, #386eef, #671ce9);
+    background: linear-gradient(to right, #386eef, #671ce9);
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+}
+
+.portfolio-title-box-text {
+    color: #ffffff;
+    font-family: 'NanumSquare';
+    margin: 30px 0px;
+}
