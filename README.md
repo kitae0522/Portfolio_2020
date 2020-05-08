@@ -71,7 +71,7 @@ $ git clone https://github.com/kitae0522/Portfolio_2020.git
 - 서버 : [닷홈 호스팅](http://www.dothome.co.kr) 사용
 - 개발자 : 송기태
 - 문의사항 및 피드백 : kitae040522@gmail.com
-- Address : [http://kitae0522.dothome.co.kr](http://kitae0522.dothome.co.kr/)
+- Address : [https://kitae0522.kro.kr](https://kitae0522.kro.kr/)
 - Viewport : 반응형
 - Git : [http://github.com/kitae0522/Portfolio_2020](https://bit.ly/330FtBo)
 
