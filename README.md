@@ -18,16 +18,16 @@ $ git clone https://github.com/kitae0522/Portfolio_2020.git
 │   ├── loading.css
 │   ├── main.css
 │   ├── media.css
-│   ├── scroll_down.css
+│   └── scroll_down.css
 ├── img
 │   ├── favicon.ico
 │   ├── songkitae.png
 │   ├── main-page.png
-│   ├── about-page.png
+│   └── about-page.png
 ├── js
 │   ├── all.js
 │   ├── ScrollTrigger.js
-│   ├── ScrollTrigger.min.js
+│   └── ScrollTrigger.min.js
 ├── about.html
 ├── index.html
 ├── portfolio.pdf
