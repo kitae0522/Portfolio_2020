@@ -1,4 +1,4 @@
-# 기태의 포트폴리오 웹사이트 ver2.0(2020년도)
+# Kitae's Portfolio Website ver2.0 (for 2020)
 
 ## git-clone
 
@@ -8,7 +8,7 @@ $ git clone https://github.com/kitae0522/Portfolio_2020.git
 
 ----------
 
-## 1. 폴더 구조
+## 1. Folder Structure
 
 ```shell
 .
@@ -34,13 +34,13 @@ $ git clone https://github.com/kitae0522/Portfolio_2020.git
 └── README.md
 ```
 
-## 2. 소개
-저를 소개하는 웹사이트를 외부 프레임워크를 사용하지 않고 CSS와 JavaScript만을 사용하여 저를 표현해보았습니다. 😉
+## 2. Introduce
+I tried to express myself using CSS and JavaScript only, not using an external framework. 😉
 
-- 페이지 구성
-  - 😊 메인 페이지 (index.html)
-  - 👋🏻 어바웃 페이지 (about.html)
-  - ✏ 워크 페이지 (work.html - 개발중)
+- page configuration
+  - 😊 Main Page (index.html)
+  - 👋🏻 About Page (about.html)
+  - ✏ Work Page (work.html - developing)
 
 ## 3. Main-Page-Design
 
@@ -60,22 +60,23 @@ $ git clone https://github.com/kitae0522/Portfolio_2020.git
 
 </div>
 
-## 5. 개발 및 구동 환경
+## 5. Development Environment
 - HTML5
 - CSS3
 - JS
 - VS Code
 - File Zilla
 
-## 6. 개발자 정보
-- 서버 : [닷홈 호스팅](http://www.dothome.co.kr) 사용
-- 개발자 : 송기태
-- 문의사항 및 피드백 : kitae040522@gmail.com
+## 6. Developer Info
+- Server : [DOTHOME HOSTING](http://www.dothome.co.kr)
+- Developer : Song Kitae
+- Feedback : kitae040522@gmail.com
 - Address : [https://kitae0522.kro.kr](https://kitae0522.kro.kr/)
-- Viewport : 반응형
+- Viewport : Reactive
 - Git : [http://github.com/kitae0522/Portfolio_2020](https://bit.ly/330FtBo)
 
 ----------
 
-이전 2019년도 포트폴리오 웹사이트를 보고싶으시다고요?
+Do you want to see the previous portfolio website for 2019?
+
 [http://php1.dothome.co.kr/]
