@@ -71,7 +71,7 @@ I tried to express myself using CSS and JavaScript only, not using an external f
 - Server : [DOTHOME HOSTING](http://www.dothome.co.kr)
 - Developer : Song Kitae
 - Feedback : kitae040522@gmail.com
-- Address : [https://kitae0522.kro.kr](https://kitae0522.kro.kr/)
+- Address : [http://kitae0522.dothome.co.kr/](http://kitae0522.dothome.co.kr/)
 - Viewport : Reactive
 - Git : [http://github.com/kitae0522/Portfolio_2020](https://bit.ly/330FtBo)
 
